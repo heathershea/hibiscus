@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "emmet.includeLanguages": {
+    "rust": "html",
+  },
+  "files.associations": {
+    ".envrc": "ini",
+    ".envrc.example": "ini"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
+}
